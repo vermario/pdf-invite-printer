@@ -1,0 +1,15 @@
+<h1>Invitation</h1>
+
+
+<p> Dear <strong>{{first_name}} {{last_name}}</strong>, we are waiting for you on {{date}} at {{time}}!</p>
+<p>
+    <h3>Your information</h3>
+    Name: {{first_name}} <br>
+    LastName: {{last_name}} <br>
+</p>
+<p>
+    <h3>Event Location</h3>
+    Address: {{address}} <br>
+    City: {{city}}
+</p>
+<br>
