@@ -1,15 +1,10 @@
-<h1>Invitation</h1>
+<h1>Event Invitation</h1>
+<p> Dear <b>{{first_name}} {{last_name}}</b>, </p>
 
+<p>You are invited to our event on <b>{{date}}</b> at <b>{{time}}</b>, at <b>{{address}}</b>, <b>{{city}}</b>.</p>
 
-<p> Dear <strong>{{first_name}} {{last_name}}</strong>, we are waiting for you on {{date}} at {{time}}!</p>
-<p>
-    <h3>Your information</h3>
-    Name: {{first_name}} <br>
-    LastName: {{last_name}} <br>
-</p>
-<p>
-    <h3>Event Location</h3>
-    Address: {{address}} <br>
-    City: {{city}}
-</p>
-<br>
+<p>Bring a friend, and don't be late! </p>
+
+<p>Kind regards</p>,
+
+<p>Robot Events Inc</p>.
