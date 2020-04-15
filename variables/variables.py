@@ -10,4 +10,6 @@ EXCEL_FILE_PATH = os.normalize_path(__file__ + "/../../devdata/Data.xlsx")
 PDF_TEMPLATE_PATH = os.normalize_path(
     __file__ + "/../../devdata/invite.template")
 PDF_OUTPUT_DIRECTORY = os.normalize_path(
-    __file__ + "/../../output/")
+    __file__ + "/../../output/pdf")
+OUTPUT_DIRECTORY = os.normalize_path(
+    __file__ + "/../../output")
