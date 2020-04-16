@@ -1,3 +1,7 @@
-# README for this task package
+# PDF invite printer
 
-<Put your own content here. Do not leave as is!>
+This repository contains a test RPA activity used to demonstrate:
+
+- reading data from an Excel file
+- creating simple PDF files from data
+- the use of Work Items in Robocloud to pass data between activities.
