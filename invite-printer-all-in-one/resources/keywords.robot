@@ -38,6 +38,7 @@ Collect invitations from the Excel file
         Set To Dictionary   ${invitation}  city         ${row.city}
         Set To Dictionary   ${invitation}  date         ${row.date}
         Set To Dictionary   ${invitation}  time         ${row.time}
+        
         Append to List      ${invitations}  ${invitation}
     END
 
