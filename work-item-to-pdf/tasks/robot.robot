@@ -1,6 +1,6 @@
 *** Settings ***
-Documentation   Invite printer robot. Creates PDF invitations to events based on data collected
-...             in a Microsoft Excel file.
+Documentation   Invite printer robot. Creates PDF invitations to events based on data it receives
+...             from the work item.
 Resource        keywords.robot
 
 *** Tasks ***
